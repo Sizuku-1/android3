@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- 主题配色 -->
+    <color name="primary">#4F6DF5</color>
+    <color name="primary_dark">#3D56C8</color>
+    <color name="primary_light">#E8ECFE</color>
+    <color name="accent">#00BFA6</color>
+
+    <!-- 文本 -->
+    <color name="text_primary">#1F2430</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_on_primary">#FFFFFFFF</color>
+
+    <!-- 背景 -->
+    <color name="bg_page">#F5F7FB</color>
+    <color name="bg_card">#FFFFFFFF</color>
+
+    <!-- 秒表按钮 -->
+    <color name="stop_green">#00B578</color>
+    <color name="stop_green_dark">#009A66</color>
+    <color name="stop_orange">#FF9500</color>
+    <color name="stop_orange_dark">#E08200</color>
+    <color name="stop_gray">#8A93A6</color>
+</resources>

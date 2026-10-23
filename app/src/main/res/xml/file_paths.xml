@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 对应 getExternalFilesDir(null) 目录，用于存放拍照生成的照片 -->
+    <external-files-path
+        name="photos"
+        path="." />
+</paths>

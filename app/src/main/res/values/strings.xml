@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">唐熙鹏2024080538</string>
+
+    <!-- MainActivity -->
+    <string name="btn_activity1">启动第1个二级Activity（正向传参）</string>
+    <string name="btn_activity2">启动第2个二级Activity（返回结果）</string>
+    <string name="btn_activity3">启动第3个二级Activity（相机拍照）</string>
+    <string name="btn_activity4">启动第4个二级Activity（秒表）</string>
+    <string name="main_title">作业三：多Activity</string>
+    <string name="main_subtitle">唐熙鹏 2024080538</string>
+    <string name="result_hint">第2个Activity返回的结果将显示在这里</string>
+    <string name="no_result">未收到返回结果</string>
+    <string name="message_to_activity_one">你好，这是来自MainActivity的参数！</string>
+
+    <!-- ActivityOne -->
+    <string name="activity_one_title">第1个二级Activity</string>
+    <string name="received_label">接收到的参数：</string>
+    <string name="no_message">未收到参数</string>
+
+    <!-- ActivityTwo -->
+    <string name="activity_two_title">第2个二级Activity</string>
+    <string name="input_hint">请输入要返回的内容</string>
+    <string name="btn_ok">确定</string>
+
+    <!-- ActivityThree -->
+    <string name="activity_three_title">第3个二级Activity</string>
+    <string name="btn_take_photo">拍照</string>
+    <string name="no_camera_app">未找到可用的相机应用</string>
+
+    <!-- ActivityFour -->
+    <string name="activity_four_title">秒表 StopWatch</string>
+    <string name="btn_start">开始</string>
+    <string name="btn_pause">暂停</string>
+    <string name="btn_reset">复位</string>
+    <string name="time_zero">00:00.00</string>
+    <string name="time_format">%1$s:%2$s.%3$s</string>
+</resources>
